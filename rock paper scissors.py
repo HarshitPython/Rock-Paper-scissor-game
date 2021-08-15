@@ -1,3 +1,4 @@
+#Symbol for rock.
 rock = '''
     _______
 ---'   ____)
