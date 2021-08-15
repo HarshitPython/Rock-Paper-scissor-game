@@ -44,6 +44,7 @@ elif a == 1:
 elif a == 2:
     print(scissors)
 
+# Computer will randomly select any int from 0 to 2.
 b = random.randint(0,2)
 print(f"Computer choose: \n {b}")
 
