@@ -18,6 +18,7 @@ paper = '''
 ---.__________)
 '''
 
+#symbol for scissors
 scissors = '''
     _______
 ---'   ____)____
